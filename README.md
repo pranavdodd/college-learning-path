@@ -2,5 +2,5 @@
 
 ## Step 1
 
-- vvv
-- -bbb
+1. vvv
+2. -bbb

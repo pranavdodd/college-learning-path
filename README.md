@@ -8,9 +8,22 @@
   - Save the syllabus for semester one into the semester one directory
 2. Using ChatGPT and Bard
   - Find the size of each file in the semester directory
-  - Copy semester one files to semester two directory
-  - Delete files from semster two directory
-  - Find command to go to home directory
+  - Copy the semester one file to the semester two directory
+  - Delete files from semester two directory
+  - Find the command to go to the home directory
 3. Read this article: https://www.taniarascia.com/how-to-use-the-command-line-for-apple-macos-and-linux/
 4. https://github.com/0nn0/terminal-mac-cheatsheet#english-version
 5. Gist: https://github.com/yaravind/dev-tools#home
+
+## Step 2
+
+1. Learn about homebrew and install it following the instructions here: https://brew.sh/
+2. Install JDK 9 using homebrew (use the `brew` command)
+3. We will use the `sublime` editor for writing code. Install `sublime text` using `brew` by following the instructions here: https://formulae.brew.sh/cask/sublime-text
+4. Code, compile and run
+  - Create a directory named  `step-1` under `~\2023\semester-one\intro-to-programming`
+  - Write a program to print `Hello, World` to the console using the sublime editor and save it in the above directory
+  - Compile and run the saved program using `javac` and `java` tools respectively
+5. Write the following programs
+  - Print the remainder of dividing two decimal numbers
+  - 

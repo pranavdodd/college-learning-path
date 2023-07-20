@@ -26,7 +26,7 @@
   - Compile and run the saved program using `javac` and `java` tools respectively
 5. Write the following programs:
   - Print the remainder of dividing two decimal numbers
-  - To convert the temperature in Centigrade to Fahrenheit
-  - Find the area of a triangle whose three sides are given (Read this article on how to read input from a user https://bushansirgur.in/example-to-read-the-user-input-using-scanner-class/)
+  - To convert the temperature in Centigrade to Fahrenheit `°C = (°F − 32) x 5/9`
   - Find out the average of numbers between 5 and 100
   - check whether the given integer is a multiple of both 5 and 7
+6. Register at https://hyperskill.org/ and select the **Introduction to Java** track

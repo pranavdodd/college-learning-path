@@ -21,7 +21,7 @@
 2. Install JDK 11 using homebrew (use the `brew` command: https://formulae.brew.sh/cask/zulu#default)
 3. We will use the `sublime` editor for writing code. Install `sublime text` using `brew` by following the instructions here: https://formulae.brew.sh/cask/sublime-text
 4. Code, compile, and run
-  - Create a directory named `unit-1` under `~\2023\semester-one\intro-to-programming`
+  - Create a directory called `unit-1` under `~\2023\semester-one\intro-to-programming`
   - Write a program to print `Hello, World` to the console using the sublime editor and save it in the above directory
   - Compile and run the saved program using `javac` and `java` tools respectively
 5. Write the following programs:

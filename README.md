@@ -24,6 +24,9 @@
   - Create a directory named  `step-1` under `~\2023\semester-one\intro-to-programming`
   - Write a program to print `Hello, World` to the console using the sublime editor and save it in the above directory
   - Compile and run the saved program using `javac` and `java` tools respectively
-5. Write the following programs
+5. Write the following programs:
   - Print the remainder of dividing two decimal numbers
-  - 
+  - To convert the temperature in Centigrade to Fahrenheit
+  - Find the area of a triangle whose three sides are given (Read this article on how to read input from user https://bushansirgur.in/example-to-read-the-user-input-using-scanner-class/)
+  - Find out the average of numbers between 5 and 100
+  - check whether the given integer is a multiple of both 5 and 7

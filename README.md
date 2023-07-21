@@ -35,3 +35,4 @@
 
 1. Read the tutorials in sequence until **The main method** topic from https://hyperskill.org/. Complete the practice exercises for each topic. THis will cover everything of **Unit 1** of your college course except **Graphics**.
 2. Complete this project from hyperskill: **Simple Chatty Bot** - https://hyperskill.org/projects/113?track=8
+3. Read about Graphics/Swing: https://hyperskill.org/learn/step/5514

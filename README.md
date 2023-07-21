@@ -30,3 +30,7 @@
   - Find out the average of numbers between 5 and 100
   - check whether the given integer is a multiple of both 5 and 7
 6. Register at https://hyperskill.org/ and select the **Introduction to Java** track
+
+## Step 3
+
+1. Read the tutorials in sequence until **The main method** topic from https://hyperskill.org/. Complete the practice exercises for each topic. THis will cover everything of **Unit 1** of your college course except **Graphics**.

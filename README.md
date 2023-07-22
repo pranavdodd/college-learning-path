@@ -51,9 +51,9 @@
   - Sets
   - Trees
 3. Algorithms: https://www.geeksforgeeks.org/introduction-to-algorithms/
+  - Search
+  - Sort
 
 ## Reference
 
--[How to learn a programming language](https://medium.com/@yaravind/how-to-learn-a-programming-language-f62daab0a6cd)
-  - Search
-  - Sort
+- [How to learn a programming language](https://medium.com/@yaravind/how-to-learn-a-programming-language-f62daab0a6cd)

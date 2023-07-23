@@ -43,7 +43,7 @@
 ## Step 4
 
 1. Error and Exception handling in Java
-2. Git: https://blog.legalhub.cn/git-guide/index.html
+2. Learn a **version control** to save the history of your work. We will use `Git`: https://blog.legalhub.cn/git-guide/index.html
 3. File input and output: https://docs.oracle.com/javase/tutorial/essential/io/streams.html
 
 ## Step 5

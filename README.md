@@ -34,7 +34,8 @@
 ## Step 3
 
 1. Read the tutorials in sequence until **The main method** topic from https://hyperskill.org/. Complete the practice exercises for each topic. THis will cover everything of **Unit 1** of your college course except **Graphics**.
-2. Complete this project from hyperskill: **Simple Chatty Bot** - https://github.com/AdamJeddy/Simple-Java-ChatBot OR
+2. How to read user input? Read the `Java Input` section of this article: https://www.programiz.com/java-programming/basic-input-output
+3. Complete this project from hyperskill: **Simple Chatty Bot** - https://github.com/AdamJeddy/Simple-Java-ChatBot OR
    - Write a program that asks the user for their name and greets them with their name.
    - Modify the previous program such that only the users Alice and Bob are greeted with their names.
 4. Read about Graphics/Swing: https://hyperskill.org/learn/step/5514

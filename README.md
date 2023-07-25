@@ -77,6 +77,9 @@
 
 - [Rock, Paper, Scissors](project-rps/RockPaperScissors.md)
 
+The following deck demonstrates the design process used in `OOAD (Object Oriented Analysis and Design)` process. Read 
+it after the completion of the 1st project. [Engineering of Software Subsystems](https://www.clearlaunch.com/programming-nouns-verbs/).
+
 ## Visual
 
 ### Data Structures in Real Life

@@ -73,6 +73,10 @@
     - Search
     - Sort
 
+## Projects
+
+- [Rock, Paper, Scissors](project-rps/RockPaperScissors.md)
+
 ## Reference
 
 - [Video Tutorial - Basic Java](https://www.youtube.com/watch?v=xk4_1vDrzzo&list=PLZPZq0r_RZON03iKBjYOsOKr1-TD7z2lH&index=2)

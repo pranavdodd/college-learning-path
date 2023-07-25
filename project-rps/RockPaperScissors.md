@@ -44,7 +44,7 @@ computer. This game should be coded in Java.
    - If the player selects Rock and Computer Selects Rock – Draw
    - If the player selects Scissor and Computer Selects Scissor – Draw
 3. High-level flow
-![High-level flow](./images/high-level-flow.png)
+![High-level flow](high-level-flow.png)
 
 ## 4. Non-Functional Requirements
 

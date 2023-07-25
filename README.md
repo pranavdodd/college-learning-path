@@ -49,12 +49,13 @@
 
 ## Step 5
 
-1. Data Structures
+1. Data Structures in Java are referred to as **Collections**. Read about Java Collection Framework here: https://www.scaler.com/topics/data-structures-in-java/
     - Arrays
     - Lists
     - Maps
     - Sets
-    - Trees
+    - Stack
+    - Queue
 3. Algorithms: https://www.geeksforgeeks.org/introduction-to-algorithms/
     - Search
     - Sort

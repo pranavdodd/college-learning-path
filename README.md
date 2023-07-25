@@ -77,6 +77,12 @@
 
 - [Rock, Paper, Scissors](project-rps/RockPaperScissors.md)
 
+## Visual
+
+### Data Structures in Real Life
+
+<img src="images/datastructure-daily-usage.png" alt="Data Structures in Real Life" width="800" style="border:1px solid black"/>
+
 ## Reference
 
 - [Video Tutorial - Basic Java](https://www.youtube.com/watch?v=xk4_1vDrzzo&list=PLZPZq0r_RZON03iKBjYOsOKr1-TD7z2lH&index=2)

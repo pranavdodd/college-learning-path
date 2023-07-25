@@ -61,6 +61,7 @@
     - Sets
     - Stack
     - Queue
+    - Iterable & Iterator
 
 ## Day 6
 

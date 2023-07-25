@@ -45,7 +45,6 @@
 1. Error and Exception handling in Java: https://www.digitalocean.com/community/tutorials/exception-handling-in-java
 2. Modify program `3.3` to throw a custom exception named `NumericNameException` when user enters numerical values for names.
 3. Learn a **version control** to save the history of your work. We will use `Git`: https://blog.legalhub.cn/git-guide/index.html
-4. File input and output: https://docs.oracle.com/javase/tutorial/essential/io/streams.html
 
 ## Step 5
 
@@ -56,6 +55,13 @@
     - Sets
     - Stack
     - Queue
+  
+## Step 6
+
+1. File input and output: https://docs.oracle.com/javase/tutorial/essential/io/streams.html
+
+## Step 7
+
 3. Algorithms: https://www.geeksforgeeks.org/introduction-to-algorithms/
     - Search
     - Sort

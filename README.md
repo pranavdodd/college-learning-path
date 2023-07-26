@@ -55,7 +55,7 @@
 
 1. Data Structures in Java are referred to as **Collections**. Read about Java Collection Framework
    here: https://www.scaler.com/topics/data-structures-in-java/
-    - Arrays
+    - Arrays. Read this article: [Inside the JVM: Arrays and how they differ from other objects](https://blogs.oracle.com/javamagazine/post/java-array-objects?source=:so:tw:or:awr:jav:::&SC=:so:tw:or:awr:jav:::&pcode=)
     - Lists
     - Maps
     - Sets

@@ -171,6 +171,11 @@ it after the completion of the 1st project. [Engineering of Software Subsystems]
 
 ## Reference
 
+
+
+
+Assignment 1: https://docs.google.com/document/d/1BCzPP_tYVBAK-Qn2pnnhSnVd78U1cwOXVlOwLxJAF_E/edit?usp=sharing
+
 - [Video Tutorial - Basic Java](https://www.youtube.com/watch?v=xk4_1vDrzzo&list=PLZPZq0r_RZON03iKBjYOsOKr1-TD7z2lH&index=2)
 - [Video Tutorial - Data Structures & Big O Notation](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 - [How to learn a programming language](https://medium.com/@yaravind/how-to-learn-a-programming-language-f62daab0a6cd)
